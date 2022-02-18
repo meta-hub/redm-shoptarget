@@ -7,3 +7,8 @@ Hopefully people will fork and update it, and create PR's in the future.
 
 ## Dependencies
 - [redm-events](https://github.com/meta-hub/redm-events)
+
+## Preview
+
+![alt text](https://github.com/meta-hub/redm-shoptarget/blob/main/assets/example1.png "Preview")
+![alt text](https://github.com/meta-hub/redm-shoptarget/blob/main/assets/example2.png "Preview")
